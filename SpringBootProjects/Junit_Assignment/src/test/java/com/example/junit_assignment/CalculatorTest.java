@@ -28,6 +28,4 @@ class CalculatorTest {
         int result = calculator.divide(10, 3);
         assertEquals(3, result);
     }
-
-
 }
